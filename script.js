@@ -13,7 +13,9 @@ function multiplicationTable(num) {
     }
     
 }
-    multiplicationTable(5);
+    let num=7;
+    multiplicationTable(parseInt(num));
+
 
 
 // for taking input from user
